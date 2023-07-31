@@ -12,5 +12,8 @@
   ],
   "author": "Reinaldo Romero <reinaldoromero696\u001bgmail.com>",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
 }
